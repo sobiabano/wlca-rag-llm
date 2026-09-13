@@ -1,6 +1,6 @@
 # wlca-rag-llm — RetroFit IRL v4 dashboard
 
-Stakeholder-facing decision-support interface over the WLCA-KBS (24,000 simulated dwellings × 3 retrofit scenarios, eight-band EPC/BER scale) and the multi-agent RAG model of the paper. No CSV, FAISS file or notebook ships in this repository — the knowledge base, the query logs and (once fetched) the semantic vectors all live in DuckDB.
+Stakeholder-facing decision-support interface over the WLCA-KBS (24,000 simulated dwellings × 3 retrofit scenarios, eight-band EPC/BER scale) and the multi-agent RAG model of the paper. — the knowledge base, the query logs and (once fetched) the semantic vectors all live in DuckDB.
 
 ## Layout
 ```
